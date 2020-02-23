@@ -15,6 +15,7 @@ with open(
 
 
 dependencies = [
+    'yhttp',
 ]
 
 
